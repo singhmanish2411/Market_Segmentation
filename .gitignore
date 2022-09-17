@@ -2,3 +2,4 @@
 .vscode 
 Customer_Segmentation_Kmeans_Clustering.ipynb 
 Orders - Analysis Task.txt
+.gitignore
